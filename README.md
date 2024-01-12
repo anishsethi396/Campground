@@ -12,9 +12,6 @@
 	-   Add and delete reviews
 	-   Upload campground photos
 	-   Users can view all campgrounds posted
--   Sort campgrounds by highest rating, most reviewed, lowest price, or highest price
-    
--   Search campground by name or location
     
 -   Responsive web design
 
